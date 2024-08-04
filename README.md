@@ -57,7 +57,7 @@ Final notes:
 
 Hope that makes sense.
 
-Please give the tool a try and let me know if you have any questions or issues. Also please upvote this thread, so that others can benefit from it.
+Please give the tool a try and let me know if you have any questions or issues. Also please upvote [this thread]([url](https://www.reddit.com/r/ROGAlly/comments/1ejqxt8/armoury_crate_se_startup_video_changer_beta/)), so that others can benefit from it.
 
 If you wish to buy me a coffee:
 https://www.buymeacoffee.com/mlbl
