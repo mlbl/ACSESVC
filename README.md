@@ -21,6 +21,7 @@ Then you select a startup video - say starfield - download it and select it.
 3) Download my Armoury Crate SE Startup Video Changer tool here (it required dotnet 8.0 desktop runtime)
 
 Download Link: [Releases](../../releases)
+**TIP**: There's also a startup-videos-collection zip you can use to get you started. I personally created / trimmed / mixed the music in some of them - mainly those that have the word "ally" in them.
 
 DotNet 8.0 Desktop Runtime download link: https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_version=8.0.0&arch=x64&rid=win10-x64&gui=true
 
