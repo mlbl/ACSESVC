@@ -49,6 +49,10 @@ NOTE: When using the tool, the Armoury Crate settings area to select a new start
 
 Also take note the destination folder's MP4 file (ex: starfield_backup.mp4) will be made read-only during the copy file process - this is to prevent Armoury Crate from restoring it's original MP4 file (it's a "hack" or "workaround" to that problem).
 
+Final notes:
+- Source code is really messy and unoptimized, don't expect it to be for a less than 2 days work
+- Plan to clean it up in the future
+
 Hope that makes sense.
 
 Please give the tool a try and let me know if you have any questions or issues. Also please upvote this thread, so that others can benefit from it.
