@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ACSE Setup", "ACSE Setup.vdproj", "{CF7BCB2C-2EE9-476B-B130-CFAFA2587DC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF7BCB2C-2EE9-476B-B130-CFAFA2587DC8}.Debug|Any CPU.ActiveCfg = Debug
+		{CF7BCB2C-2EE9-476B-B130-CFAFA2587DC8}.Debug|Any CPU.Build.0 = Debug
+		{CF7BCB2C-2EE9-476B-B130-CFAFA2587DC8}.Debug|Default.ActiveCfg = Debug
+		{CF7BCB2C-2EE9-476B-B130-CFAFA2587DC8}.Debug|Default.Build.0 = Debug
+		{CF7BCB2C-2EE9-476B-B130-CFAFA2587DC8}.Release|Any CPU.ActiveCfg = Release
+		{CF7BCB2C-2EE9-476B-B130-CFAFA2587DC8}.Release|Any CPU.Build.0 = Release
+		{CF7BCB2C-2EE9-476B-B130-CFAFA2587DC8}.Release|Default.ActiveCfg = Release
+		{CF7BCB2C-2EE9-476B-B130-CFAFA2587DC8}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6725D4E-8EE0-48CA-8A27-94E612CB15D4}
+	EndGlobalSection
+EndGlobal
