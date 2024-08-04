@@ -14,36 +14,36 @@ Take note of the following:
 
 2) **You are required to do these steps first before using the tool**: Go to the content platform section in the "settings" area in armory crate as per below screenshot.
 
-![image](https://github.com/user-attachments/assets/732ab63f-42a0-4cf1-af64-1466ea98909e)
+    ![image](https://github.com/user-attachments/assets/732ab63f-42a0-4cf1-af64-1466ea98909e)
+  
+    Then you select a startup video - say starfield - download it and select it.
 
-Then you select a startup video - say starfield - download it and select it.
+3) Download my Armoury Crate SE Startup Video Changer tool here (it requires dotnet 8.0 desktop runtime)
 
-3) Download my Armoury Crate SE Startup Video Changer tool here (it required dotnet 8.0 desktop runtime)
-
-Download Link: [Releases](../../releases)
-
-**TIP**: There's also a startup-videos-collection zip you can use to get you started. I personally created / trimmed / mixed the music in some of them - mainly those that have the word "ally" in them.
-
-DotNet 8.0 Desktop Runtime download link: https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_version=8.0.0&arch=x64&rid=win10-x64&gui=true
+    Download Link: [Releases](../../releases)
+    
+    **TIP**: There's also a startup-videos-collection zip you can use to get you started. I personally created / trimmed / mixed the music in some of them - mainly those that have the word "ally" in them.
+    
+    DotNet 8.0 Desktop Runtime download link: https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_version=8.0.0&arch=x64&rid=win10-x64&gui=true
 
 4) Launch the tool (it will direct you to download DotNet 8.0 desktop runtime if you don't already have it installed. Interface:
 
-![image](https://github.com/user-attachments/assets/e1c4e86b-5239-4582-9e3f-88401fcd0735)
+    ![image](https://github.com/user-attachments/assets/e1c4e86b-5239-4582-9e3f-88401fcd0735)
 
 5) Select a video file (MP4 file type and make sure the MP4 file is either h264/h265 encoded and nothing else)
 
 6) Select destination folder. My tool/app will try to auto-detect your armoury crate SE user content folder. You should see folder(s) with 3 digit numbers if the auto-detection is successful. Examples:
 
-- 353 corresponds to **GhostRunner**
-- 352 corresponds to **Cult of the lamb**
-- 358 corresponds to **Robocop**
-- 353 corresponds to **Starfield**
-
-So if you selected starfield in the original content platform section in Armoury Crate SE, you should choose 353 as your Destination Folder.
-
-Then click on "Copy File" button and it should be done.
-
-It's that simple.
+    - 353 corresponds to **GhostRunner**
+    - 352 corresponds to **Cult of the lamb**
+    - 358 corresponds to **Robocop**
+    - 353 corresponds to **Starfield**
+    
+    So if you selected starfield in the original content platform section in Armoury Crate SE, you should choose 353 as your Destination Folder.
+    
+    Then click on "Copy File" button and it should be done.
+    
+    It's that simple.
 
 Your original Mp4 file will be saved in a subfolder called "original" (example - 353\original) just in case you want to restore it.
 
